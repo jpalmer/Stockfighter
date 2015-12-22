@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs
+/Starfighter/bin/Debug
+/Starfighter/obj/Debug
+/Starfighter/APIkey.txt

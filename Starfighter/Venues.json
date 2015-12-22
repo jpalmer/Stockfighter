@@ -1,0 +1,377 @@
+﻿{
+  "id": true,
+  "venues": [
+    {
+      "id": 2553,
+      "name": "PYHE Sao Paulo Exchange",
+      "state": "open",
+      "venue": "PYHEX"
+    },
+    {
+      "id": 2116,
+      "name": "$  Trains, Railroads, Airways, and Nautical Exchange",
+      "state": "open",
+      "venue": "TRANEX"
+    },
+    {
+      "id": 2623,
+      "name": "BetterTheory Buenos Aires Stock Exchange",
+      "state": "open",
+      "venue": "BTBAEX"
+    },
+    {
+      "id": 2508,
+      "name": "RelentlessMeat Vienna Board of Trade",
+      "state": "open",
+      "venue": "RMVBEX"
+    },
+    {
+      "id": 2537,
+      "name": "MYYS Buenos Aires Exchange",
+      "state": "open",
+      "venue": "MYSBEX"
+    },
+    {
+      "id": 2582,
+      "name": "EYTT Munich Exchange",
+      "state": "open",
+      "venue": "YTTMEX"
+    },
+    {
+      "id": 2586,
+      "name": "SilverWorld Hong Kong Stock Exchange",
+      "state": "open",
+      "venue": "SWHKEX"
+    },
+    {
+      "id": 2579,
+      "name": "OEZQ Mumbai Exchange",
+      "state": "open",
+      "venue": "EZQMEX"
+    },
+    {
+      "id": 2472,
+      "name": "BEX Karachi Exchange",
+      "state": "open",
+      "venue": "BXKEX"
+    },
+    {
+      "id": 2557,
+      "name": "OQZ Buenos Aires Exchange",
+      "state": "open",
+      "venue": "QZBEX"
+    },
+    {
+      "id": 2632,
+      "name": "IntentSmile Johannesburg Stock Exchange",
+      "state": "open",
+      "venue": "ISJEX"
+    },
+    {
+      "id": 2531,
+      "name": "AngryMusic Nagoya Stock Exchange",
+      "state": "open",
+      "venue": "AMNEX"
+    },
+    {
+      "id": 2614,
+      "name": "UEXZ Buenos Aires Exchange",
+      "state": "open",
+      "venue": "UEXZEX"
+    },
+    {
+      "id": 2591,
+      "name": "MysteriousFortune Beijing Board of Trade",
+      "state": "open",
+      "venue": "MFBBEX"
+    },
+    {
+      "id": 2617,
+      "name": "GYT Ogaki Exchange",
+      "state": "open",
+      "venue": "GYTOEX"
+    },
+    {
+      "id": 2539,
+      "name": "LightFear London Exchange",
+      "state": "open",
+      "venue": "LFLEX"
+    },
+    {
+      "id": 2541,
+      "name": "WorldwideBrain Jakarta Board of Trade",
+      "state": "open",
+      "venue": "WBJBEX"
+    },
+    {
+      "id": 2511,
+      "name": "HeavyFact New York Stock Exchange",
+      "state": "open",
+      "venue": "HFYEX"
+    },
+    {
+      "id": 2500,
+      "name": "BOUH Milan Exchange",
+      "state": "open",
+      "venue": "BOUMEX"
+    },
+    {
+      "id": 2460,
+      "name": "EagerPower New York Board of Trade",
+      "state": "open",
+      "venue": "PYBTEX"
+    },
+    {
+      "id": 2594,
+      "name": "RYOR Mumbai Exchange",
+      "state": "open",
+      "venue": "RORMEX"
+    },
+    {
+      "id": 2538,
+      "name": "YFZU Budapest Exchange",
+      "state": "open",
+      "venue": "FUBEX"
+    },
+    {
+      "id": 2485,
+      "name": "OKUK Paris Exchange",
+      "state": "open",
+      "venue": "OKKPEX"
+    },
+    {
+      "id": 2630,
+      "name": "LWYE Shanghai Exchange",
+      "state": "open",
+      "venue": "LWYEX"
+    },
+    {
+      "id": 2469,
+      "name": "KOUS Mexico City Exchange",
+      "state": "open",
+      "venue": "KSCEX"
+    },
+    {
+      "id": 2470,
+      "name": "KLEU Prague Exchange",
+      "state": "open",
+      "venue": "KLEUEX"
+    },
+    {
+      "id": 2584,
+      "name": "NYXO Johannesburg Exchange",
+      "state": "open",
+      "venue": "NYXJEX"
+    },
+    {
+      "id": 2621,
+      "name": "EUCM Shanghai Exchange",
+      "state": "open",
+      "venue": "EUCMEX"
+    },
+    {
+      "id": 2624,
+      "name": "New York Board of Trade",
+      "state": "open",
+      "venue": "YBTEX"
+    },
+    {
+      "id": 2555,
+      "name": "IERG Beijing Exchange",
+      "state": "open",
+      "venue": "IRGBEX"
+    },
+    {
+      "id": 2571,
+      "name": "JUT Buenos Aires Exchange",
+      "state": "open",
+      "venue": "JUTBEX"
+    },
+    {
+      "id": 2602,
+      "name": "EQKE Chicago Exchange",
+      "state": "open",
+      "venue": "EKEX"
+    },
+    {
+      "id": 2605,
+      "name": "GreenBird New York Board of Trade",
+      "state": "open",
+      "venue": "GBNTEX"
+    },
+    {
+      "id": 2573,
+      "name": "YZYL Vienna Exchange",
+      "state": "open",
+      "venue": "YZLVEX"
+    },
+    {
+      "id": 2569,
+      "name": "IntentIdea Cologne Board of Trade",
+      "state": "open",
+      "venue": "ICTEX"
+    },
+    {
+      "id": 2610,
+      "name": "Arcanite Reaper Gungzhou Stock Exchange",
+      "state": "open",
+      "venue": "ARGEX"
+    },
+    {
+      "id": 2629,
+      "name": "MYEI Buenos Aires Exchange",
+      "state": "open",
+      "venue": "YEBAEX"
+    },
+    {
+      "id": 2237,
+      "name": "AIYP Calcutta Exchange",
+      "state": "open",
+      "venue": "AIYPEX"
+    },
+    {
+      "id": 2575,
+      "name": "WorldwideRiver New York Exchange",
+      "state": "open",
+      "venue": "WRNEX"
+    },
+    {
+      "id": 2488,
+      "name": "AEIG Mexico City Exchange",
+      "state": "open",
+      "venue": "AEIMEX"
+    },
+    {
+      "id": 2561,
+      "name": "ODYA Cologne Exchange",
+      "state": "open",
+      "venue": "DACEX"
+    },
+    {
+      "id": 2631,
+      "name": "WUYY Madrid Exchange",
+      "state": "open",
+      "venue": "WUYMEX"
+    },
+    {
+      "id": 2327,
+      "name": "ZEOK Cairo Exchange",
+      "state": "open",
+      "venue": "ZEKCEX"
+    },
+    {
+      "id": 2491,
+      "name": "UUAN Shanghai Exchange",
+      "state": "open",
+      "venue": "UANEX"
+    },
+    {
+      "id": 2559,
+      "name": "ZYIJ Sao Paulo Exchange",
+      "state": "open",
+      "venue": "ZIJEX"
+    },
+    {
+      "id": 2484,
+      "name": "MEIL Moscow Exchange",
+      "state": "open",
+      "venue": "MILMEX"
+    },
+    {
+      "id": 2563,
+      "name": "IUQW London Exchange",
+      "state": "open",
+      "venue": "IQWLEX"
+    },
+    {
+      "id": 2608,
+      "name": "AngrySmile Vienna Stock Exchange",
+      "state": "open",
+      "venue": "ASVEX"
+    },
+    {
+      "id": 2619,
+      "name": "WorldwidePower Johannesburg Exchange",
+      "state": "open",
+      "venue": "WPJEX"
+    },
+    {
+      "id": 2589,
+      "name": "FUTU Brussels Exchange",
+      "state": "open",
+      "venue": "FTUBEX"
+    },
+    {
+      "id": 2626,
+      "name": "Magitek Warsaw Board of Trade",
+      "state": "open",
+      "venue": "MWBTEX"
+    },
+    {
+      "id": 1,
+      "name": "Test Exchange",
+      "state": "open",
+      "venue": "TESTEX"
+    },
+    {
+      "id": 2622,
+      "name": "LightForest London Board of Exchange",
+      "state": "open",
+      "venue": "LFLBEX"
+    },
+    {
+      "id": 2496,
+      "name": "MROY Rome Exchange",
+      "state": "open",
+      "venue": "MRREX"
+    },
+    {
+      "id": 2564,
+      "name": "TZYO Hamburg Exchange",
+      "state": "open",
+      "venue": "TZHEX"
+    },
+    {
+      "id": 2481,
+      "name": "IUPS Manila Exchange",
+      "state": "open",
+      "venue": "IUPMEX"
+    },
+    {
+      "id": 2136,
+      "name": "BYKY Prague Exchange",
+      "state": "open",
+      "venue": "BKYPEX"
+    },
+    {
+      "id": 2521,
+      "name": "VYOI Cairo Exchange",
+      "state": "open",
+      "venue": "VYICEX"
+    },
+    {
+      "id": 2522,
+      "name": "RelentlessKnowledge Vienna Board of Exchange",
+      "state": "open",
+      "venue": "RKVBEX"
+    },
+    {
+      "id": 2530,
+      "name": "UZIS Cairo Exchange",
+      "state": "open",
+      "venue": "UZIEX"
+    },
+    {
+      "id": 2562,
+      "name": "UTO Tokyo Exchange",
+      "state": "open",
+      "venue": "TTEX"
+    },
+    {
+      "id": 2495,
+      "name": "IUID Karachi Exchange",
+      "state": "open",
+      "venue": "IUDKEX"
+    }
+  ]
+}
